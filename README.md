@@ -6,6 +6,22 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 ## Dataset used
 -<a href="https://github.com/udbhav555/Dataset-for-Analytics/blob/main/car_dataset_india.xlsx">Dataset</a>
 
+## Question (KPIs)
+- What is the total sales revenue generated?
+- How many total cars were sold?
+- How has the average price of cars changed over the years?
+- Which brand has the highest average price?
+- How does the sum of price and engine CC vary by brand?
+- What is the total service cost incurred?
+- Which car models have the highest average service cost?
+- Which fuel type is the most common?
+- What is the distribution of cars by fuel type (CNG, Petrol, Diesel, Electric)?
+- What is the distribution of cars by transmission type (Manual vs. Automatic)?
+- What is the average mileage of the cars?
+- What is the average price per car?
+
+- 
+
 ## Features
 
 ✅ **Total Sales & Service Cost Analysis**\
