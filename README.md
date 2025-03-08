@@ -30,6 +30,7 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 - Enhance UI – Apply a structured layout and reset button for better navigation.
 - Finalize & Publish – Test, refine, and share the dashboard. 🚀
 
+
 ## Features
 
 ✅ **Total Sales & Service Cost Analysis**\
@@ -60,6 +61,10 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 2. Use slicers (filters) to select a **specific brand or year** for analysis.
 3. Click the **"Clear All Slicers"** button to reset filters and return to the default dashboard.
 4. Explore various **charts and insights** for better data-driven decision-making.
+
+## Dashboard
+![Screenshot 2025-03-08 154934](https://github.com/user-attachments/assets/89ad8a32-d309-4b0d-b3bf-62f82aea3094)
+
 
 ## Tools & Technologies Used
 
