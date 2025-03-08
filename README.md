@@ -23,6 +23,13 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 ## Dashboard
 - Dashboard Interaction <a href="https://github.com/udbhav555/Dataset-for-Analytics/blob/main/Power%20BI%20Project%207.pbix">View Dashboard</a>
 
+## Process
+- Import Data – Load and clean automobile industry data in Power BI.
+- Data Modeling – Establish relationships and create calculated fields using DAX.
+- Build Visuals – Add KPIs, charts, and interactive slicers.
+- Enhance UI – Apply a structured layout and reset button for better navigation.
+- Finalize & Publish – Test, refine, and share the dashboard. 🚀
+
 ## Features
 
 ✅ **Total Sales & Service Cost Analysis**\
@@ -59,9 +66,6 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 - **Power BI** for data visualization
 - **DAX (Data Analysis Expressions)** for calculations
 - **Interactive Visuals & Filters** for better data exploration
-
-## Screenshots
-
 
 
 ## Contact
