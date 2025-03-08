@@ -21,7 +21,8 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 - What is the average price per car?
 
 ## Dashboard
-- Dashboard Interaction <a href="https://github.com/udbhav555/Dataset-for-Analytics/blob/main/Power%20BI%20Project%207.pbix">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/udbhav555/Dataset-for-Analytics/blob/main/Power%20BI%20Project%207.pbix">View Dashboard</a
+  
 
 ## Process
 - Import Data – Load and clean automobile industry data in Power BI.
@@ -39,6 +40,9 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 ✅ **Interactive Slicers for Custom Analysis**\
 ✅ **Clear All Slicers Button for Quick Reset**\
 ✅ **Dynamic Visuals for Better Understanding**
+
+## Dashboard
+![Screenshot 2025-03-08 154934](https://github.com/user-attachments/assets/84909dd8-2b29-4c0c-9426-b0dfadbd1467)
 
 ## Key Metrics
 
@@ -61,9 +65,6 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 2. Use slicers (filters) to select a **specific brand or year** for analysis.
 3. Click the **"Clear All Slicers"** button to reset filters and return to the default dashboard.
 4. Explore various **charts and insights** for better data-driven decision-making.
-
-## Dashboard
-![Screenshot 2025-03-08 154934](https://github.com/user-attachments/assets/89ad8a32-d309-4b0d-b3bf-62f82aea3094)
 
 
 ## Tools & Technologies Used
