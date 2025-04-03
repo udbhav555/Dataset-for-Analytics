@@ -81,7 +81,6 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 For any queries or suggestions, feel free to reach out! 🚀
 
 📩 **Email**: [udbhavmishra459@outlook.com](mailto\:udbhavmishra459@outlook.com)\
-🔗 **LinkedIn**: [www.linkedin.com/in/udbhav-mishra-98381634a](http://www.linkedin.com/in/udbhav-mishra-98381634a)
-
+🔗 **LinkedIn**: [https://www.linkedin.com/in/udbhav-mishra5555/]
 
 
