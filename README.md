@@ -23,7 +23,7 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 - What is the average price per car?
 
 ## Dashboard
-- Dashboard Interaction <a href="https://github.com/udbhav555/Dataset-for-Analytics/blob/main/Power%20BI%20Project%207.pbix">View Dashboard</a
+- Dashboard Interaction <a href="https://github.com/udbhav555/Dataset-for-Analytics/blob/main/Power%20BI%20Project%207.pbix">View Dashboard</a>
   
 
 ## Process
