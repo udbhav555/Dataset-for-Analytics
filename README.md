@@ -1,6 +1,8 @@
 # Automobile Industry Dashboard (India) 🚗📊
 
-## Project objective
+## Project 1: 
+
+## Project  objective
 To create an interactive Power BI dashboard that provides insights into sales (2023-24), service costs, fuel types, transmission types, and pricing trends in the Indian automobile industry, helping users make data-driven decisions with ease. 
 
 ## Dataset used
