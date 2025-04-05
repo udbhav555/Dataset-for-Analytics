@@ -5,6 +5,10 @@
 ## Project  objective
 To create an interactive Power BI dashboard that provides insights into sales (2023-24), service costs, fuel types, transmission types, and pricing trends in the Indian automobile industry, helping users make data-driven decisions with ease. 
 
+## Dashboard View
+![Screenshot 2025-03-08 154934](https://github.com/user-attachments/assets/84909dd8-2b29-4c0c-9426-b0dfadbd1467)
+
+
 ## Dataset used
 -<a href="https://github.com/udbhav555/Dataset-for-Analytics/blob/main/car_dataset_india.xlsx">Dataset</a>
 
@@ -43,8 +47,6 @@ To create an interactive Power BI dashboard that provides insights into sales (2
 ✅ **Clear All Slicers Button for Quick Reset**\
 ✅ **Dynamic Visuals for Better Understanding**
 
-## Dashboard
-![Screenshot 2025-03-08 154934](https://github.com/user-attachments/assets/84909dd8-2b29-4c0c-9426-b0dfadbd1467)
 
 ## Key Metrics
 
